@@ -34,7 +34,7 @@
     "check-coverage": "istanbul check-coverage --statement 95 --function 95 --branch 90"
   },
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.5.0",
     "cli-color": "^1.1.0",
     "glob": "^7.1.1",
     "lodash": "^4.6.1",
