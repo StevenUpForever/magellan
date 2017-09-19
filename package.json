@@ -44,7 +44,7 @@
     "portscanner": "^2.1.1",
     "pretty-ms": "^2.1.0",
     "q": "1.4.1",
-    "request": "^2.55.0",
+    "request": "^2.82.0",
     "sanitize-filename": "^1.5.3",
     "slugify": "^1.0.2",
     "sync-request": "^4.0.1",
