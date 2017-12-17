@@ -46,7 +46,7 @@
     "q": "1.4.1",
     "request": "^2.55.0",
     "sanitize-filename": "^1.5.3",
-    "slugify": "^1.0.2",
+    "slugify": "^1.2.7",
     "sync-request": "^4.0.1",
     "testarmada-tree-kill": "^2.0.0",
     "yargs": "6.5.0"
